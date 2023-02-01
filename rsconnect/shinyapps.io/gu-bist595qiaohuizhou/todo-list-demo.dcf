@@ -5,9 +5,9 @@ account: gu-bist595qiaohuizhou
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8174793
-bundleId: 6791841
-url: https://gu-bist595qiaohuizhou.shinyapps.io/todo-list-demo/
-when: 1675134189.05144
-lastSyncTime: 1675134189.05145
+bundleId: 6799352
+url: https://chloejoz.shinyapps.io/todo-list-demo/
+when: 1675281858.07337
+lastSyncTime: 1675281858.07338
 asMultiple: FALSE
 asStatic: FALSE
