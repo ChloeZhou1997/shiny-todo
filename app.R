@@ -43,12 +43,12 @@ ui <- fluidPage(
                p("This small project starts on 2023-01-30, and now you can"),
                tags$div(
                  tags$ul(
-                   tags$ol("Submit things you want to do to generate a checkbox"),
-                   tags$ol("Submit things you have learnt to generate a list"),
-                   tags$ol("Configurating the data that will appear at the title")
+                   tags$li("Submit things you want to do to generate a checkbox"),
+                   tags$li("Submit things you have learnt to generate a list"),
+                   tags$li("Configurating the data that will appear at the title")
                  )
                ),
-               p("Please", strong("consider", style = "color:red"),"my application if only applicants who know Shiny are strongly preferred!", class = "text-danger")
+               p("Please still", strong("consider", style = "color:red"),"my application if only applicants who know Shiny are strongly preferred!", class = "text-danger")
       ))
   )
 )
